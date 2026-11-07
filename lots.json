@@ -1,1 +1,13 @@
-{"lots":{"nifty":65,"banknifty":30},"changed":"2026-11-07","checked":"2026-11-07","source":"manual seed"}
+{
+ "lots": {
+  "nifty": 65,
+  "banknifty": 30,
+  "finnifty": 60,
+  "midcap": 120,
+  "sensex": 20,
+  "bankex": 30
+ },
+ "changed": "2026-11-07",
+ "checked": "2026-11-07",
+ "source": "dhan+nse"
+}
